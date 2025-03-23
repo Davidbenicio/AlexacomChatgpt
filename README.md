@@ -1,0 +1,2 @@
+# AlexacomChatgpt
+Projeto: Alexa + ChatGPT
